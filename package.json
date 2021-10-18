@@ -38,7 +38,7 @@
     "test": "jest",
     "lint": "eslint ."
   },
-  "peerependencies": {
+  "peerDependencies": {
     "react": "^17.0.1",
     "react-native": "^0.62.2"
   },
